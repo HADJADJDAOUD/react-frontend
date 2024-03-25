@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212.42 221.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d3d51;
+        stroke: #2d3d51;
+        stroke-width: .97px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        font-family: AeonikTRIAL-Bold, 'Aeonik TRIAL';
+        font-size: 168.4px;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: .15px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: .46px;
+      }
+
+      .cls-4 {
+        stroke-width: .26px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" x=".48" y=".48" width="211.45" height="209.46" rx="15.45" ry="15.45" transform="translate(212.42 210.42) rotate(180)"/>
+      <g>
+        <text class="cls-5" transform="translate(30.68 186.69)"><tspan x="0" y="0">B</tspan></text>
+        <g>
+          <path class="cls-3" d="m160.79,53.96v.08h-.08c-11.02,0-20.02,8.61-20.64,19.47-.03.4-.04.81-.04,1.22h-.16c-.02-11.35-9.19-20.56-20.53-20.64v-.08c11.39-.04,20.61-9.29,20.61-20.68v-.04h.16c0,11.42,9.26,20.68,20.68,20.68Z"/>
+          <path class="cls-4" d="m181.61,35.13v.05h-.04c-6.3,0-11.45,4.92-11.8,11.13-.01.23-.02.46-.02.69h-.09c-.01-6.49-5.25-11.76-11.74-11.8v-.05c6.51-.02,11.78-5.31,11.78-11.83v-.02h.09c0,6.53,5.3,11.83,11.83,11.83Z"/>
+          <path class="cls-2" d="m168.92,74.61v.02h-.02c-3.46,0-6.28,2.7-6.48,6.11,0,.13-.01.25-.01.38h-.05c0-3.56-2.88-6.45-6.44-6.48v-.02c3.57-.01,6.47-2.91,6.47-6.49h0s.05-.01.05-.01c0,3.59,2.91,6.49,6.49,6.49Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
